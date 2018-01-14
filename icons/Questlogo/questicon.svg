@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="questicon.svg"
+   inkscape:export-filename="D:\Sven\Quest\Questicon\questicon16.png"
+   inkscape:export-xdpi="4.1039176"
+   inkscape:export-ydpi="4.1039176">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94125682"
+     inkscape:cx="0.89774137"
+     inkscape:cy="653.80234"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 3"
+     id="g907"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:0"
+     sodipodi:insensitive="true">
+    <rect
+       inkscape:export-ydpi="65.662682"
+       inkscape:export-xdpi="65.662682"
+       inkscape:export-filename="D:\Sven\Quest\icons\Quest-Logo\questlogo.png"
+       ry="0"
+       rx="0"
+       y="83.8703"
+       x="42.6166"
+       height="99.027321"
+       width="99.027321"
+       id="rect905"
+       style="opacity:1;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.03463078;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#1d1b61;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.07999992;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4512"
+       width="97.895836"
+       height="84.666664"
+       x="42.333332"
+       y="90.625"
+       rx="0"
+       ry="18.520834" />
+  </g>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       aria-label="›quest"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:'Prestige Elite Std';-inkscape-font-specification:'Prestige Elite Std';letter-spacing:0px;word-spacing:0px;fill:#f9f9ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4506"
+       transform="matrix(3.6435052,0,0,3.6435052,-98.769771,-401.24449)">
+      <path
+         d="m 40.202416,153.28461 5.597043,-6.66678 -5.597043,-6.66679 2.55974,-1.87205 6.85781,8.53884 -6.85781,8.51974 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.32291663px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.29341495"
+         id="path1024"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Prestige Elite Std';-inkscape-font-specification:'Prestige Elite Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.206688"
+       y="108.4344"
+       id="text1001"><tspan
+         sodipodi:role="line"
+         id="tspan999"
+         x="70.206688"
+         y="113.39269"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.80909109;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1484"
+       width="18.520838"
+       height="74.083344"
+       x="84.666664"
+       y="95.916664"
+       rx="0"
+       ry="0" />
+  </g>
+</svg>
